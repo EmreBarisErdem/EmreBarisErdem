@@ -1,7 +1,7 @@
 # Hi, My Name is Baris 👋
 
-I am a newbie developer with a passion for developing web applications using various technologies.
-I'm a passionate web developer learning and building exciting projects.
+- I am a newbie developer with a passion for developing web applications using various technologies.<br>
+- Trying to be a full-stack web developer by learning and building exciting projects.
 
 ## My Experience with Databases:
 - 📚 Relational Databases (e.g., MsSQL, MySQL, PostgreSQL)
