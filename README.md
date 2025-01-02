@@ -13,5 +13,5 @@ I'm a passionate web developer learning and building exciting projects.
 - 🌐 ASP.NET Core, ASP.NET MVC Core, Node.js, React.js
 
 ### How to Reach Me
-- 💼 [LinkedIn](www.linkedin.com/in/emre-barış-erdem)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emre-barış-erdem)
 - ✉️ [Email](mailto:erdem.emre.baris@gmail.com)
