@@ -3,16 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"/>
 </head>
 <body>
     <div>
     <h2>
-      Hi, My Name is Baris <i class="fa-solid fa-peace fa-xs" style="color: #74C0FC;"></i>
+       <i class="fa-solid fa-peace fa-xs" style="color: #74C0FC;">Hi, My Name is Baris</i>
     </h2>
     <h5>
-      <i class="fa-regular fa-circle-nodes fa-rotate-180 fa-2xs" style="color: #FFD43B;"></i> I am a newbie developer with passion for developing web applications using various technologies, 
+      <i class="fa-regular fa-circle-nodes fa-rotate-180 fa-2xs" style="color: #FFD43B;">I am a newbie developer with passion for developing web applications using various technologies, </i> 
     </h5>
   </div>
   <div>
