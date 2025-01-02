@@ -1,6 +1,13 @@
-
-
-  <div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div>
     <h2>
       Hi, My Name is Baris <i class="fa-solid fa-peace fa-xs" style="color: #74C0FC;"></i>
     </h2>
@@ -12,6 +19,10 @@
     <i class="fa-regular fa-circle-nodes fa-rotate-180 fa-2xs" style="color: #FFD43B;"></i> My Experience with <i class="fa-solid fa-database fa-2xs" style="color: #74C0FC;"></i> (Databases):
        <i class="fa-light fa-pen fa-2xs" style="color: #ff0000;"></i> 
   </div>
+</body>
+</html>
+
+  
 
 
   
