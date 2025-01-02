@@ -3,23 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <title>GitHub Profile README</title>
 </head>
 <body>
     <div>
-    <h2>
-       <i class="fa-solid fa-peace fa-xs" style="color: #74C0FC;">Hi, My Name is Baris</i>
-    </h2>
-    <h5>
-      <i class="fa-regular fa-circle-nodes fa-rotate-180 fa-2xs" style="color: #FFD43B;">I am a newbie developer with passion for developing web applications using various technologies, </i> 
-    </h5>
-  </div>
-  <div>
-    <i class="fa-regular fa-circle-nodes fa-rotate-180 fa-2xs" style="color: #FFD43B;"></i> My Experience with <i class="fa-solid fa-database fa-2xs" style="color: #74C0FC;"></i> (Databases):
-       <i class="fa-light fa-pen fa-2xs" style="color: #ff0000;"></i> 
-  </div>
+        <h2>
+            <i class="fas fa-peace" style="color: #74C0FC;"></i> Hi, My Name is Baris
+        </h2>
+        <h5>
+            <i class="fas fa-circle-nodes" style="color: #FFD43B;"></i> I am a newbie developer with a passion for developing web applications using various technologies.
+        </h5>
+    </div>
+    <div>
+        <p>
+            <i class="fas fa-circle-nodes" style="color: #FFD43B;"></i> My Experience with 
+            <i class="fas fa-database" style="color: #74C0FC;"></i> (Databases):
+            <i class="fas fa-pen" style="color: #FF0000;"></i>
+        </p>
+    </div>
 </body>
 </html>
+
 
   
 
