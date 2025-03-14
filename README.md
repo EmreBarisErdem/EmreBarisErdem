@@ -9,8 +9,8 @@
 - 🔧 Writing SQL queries and optimizing performance
 
 ## My Web Tech Stack:
-- 🖥️ HTML, CSS, JavaScript
-- 🌐 ASP.NET Core, ASP.NET MVC Core, Node.js, React.js
+- 🖥️ C#, HTML, CSS, TailwindCSS, JavaScript
+- 🌐 ASP.NET Core, ASP.NET MVC Core, ASP.NET WEB API, Node.js, React.js
 
 ### How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/emre-barış-erdem)
