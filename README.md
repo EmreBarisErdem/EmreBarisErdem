@@ -4,8 +4,15 @@
 - Trying to be a full-stack web developer by learning and building exciting projects.
 
 ## My Experience with Databases:
+<p align="left">
 - 📚 Relational Databases (e.g., MsSQL, MySQL, PostgreSQL)
+  <img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 - 🛢️ NoSQL Databases (e.g., MongoDB , Redis)
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
 - 🔧 Writing SQL queries and optimizing performance
 
 ## My Web Tech Stack:
