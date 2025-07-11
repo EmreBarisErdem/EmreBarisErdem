@@ -10,7 +10,6 @@
 <p>
 - 🛢️ NoSQL Databases (e.g., <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> , <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />)
 </p> <br>
-- 🔧 Writing SQL queries and optimizing performance
 
 ## My Web Tech Stack:
 
