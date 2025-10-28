@@ -48,7 +48,7 @@
 
 ### 💡 Hakkımda
 - **Full-stack web geliştiricisi** olma yolunda ilerleyen, öğrenmeye ve üretmeye tutkulu bir yazılım geliştiriciyim.  
-- **ASP.NET Core**, **React** ve **veritabanı tasarımı** üzerinde yoğunlaşıyorum.  
+- **ASP.NET Core**, **React** ve **Sorgu Optimizasyonu** üzerinde yoğunlaşıyorum.  
 - Kod yazarken kullanıcı deneyimi ve performans odaklı çözümler üretmeyi seviyorum.
 
 ### 🧠 Şu Anda Öğrendiğim Diller
