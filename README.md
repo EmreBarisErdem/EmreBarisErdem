@@ -41,9 +41,10 @@
 
 </div>
 
----
+----------------------------
 
-<div id="tr" style="display:none;">
+
+<div id="tr">
 
 ### 💡 Hakkımda
 - **Full-stack web geliştiricisi** olma yolunda ilerleyen, öğrenmeye ve üretmeye tutkulu bir yazılım geliştiriciyim.  
