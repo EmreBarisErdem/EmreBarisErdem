@@ -1,23 +1,30 @@
 <h1 align="center">👋 Hi, I'm Barış | Merhaba, Ben Barış</h1>
 
-<p align="center">
-  <button id="lang-toggle" onclick="toggleLang()" style="padding:8px 16px; border:none; border-radius:8px; cursor:pointer; background:#5C2D91; color:white;">🇬🇧 English</button>
-</p>
+<h3 align="right">
+  <a href="#en" id="lang-en">🇬🇧 English</a> |
+  <a href="#tr" id="lang-tr">🇹🇷 Türkçe</a>
+</h3>
 
 <div id="en">
   
 ### 💡 About Me
 - I'm a **junior full-stack web developer** passionate about creating efficient and user-friendly applications.  
 - I enjoy learning new technologies and building practical projects that combine creativity and logic.  
-- Currently focused on **ASP.NET Core**, **React**, and **database design**.
+- Currently focused on **ASP.NET Core**, **React**, and **Optimizing Queries**.
 
 ### 🧠 Currently Learning
 - Python 🐍  
 - Java ☕
 
 ### 🗃️ Databases
-- **Relational:** SQL Server, MySQL, PostgreSQL  
-- **NoSQL:** MongoDB, Redis  
+**Relational:**  
+<a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://img.shields.io/badge/MsSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+
+**NoSQL:**  
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>
 
 ### 🧰 My Tech Stack
 <p align="center">
@@ -84,19 +91,3 @@
 
 </div>
 
-<script>
-function toggleLang() {
-  const en = document.getElementById("en");
-  const tr = document.getElementById("tr");
-  const btn = document.getElementById("lang-toggle");
-  if (en.style.display === "none") {
-    en.style.display = "block";
-    tr.style.display = "none";
-    btn.innerHTML = "🇹🇷 Türkçe";
-  } else {
-    en.style.display = "none";
-    tr.style.display = "block";
-    btn.innerHTML = "🇬🇧 English";
-  }
-}
-</script>
