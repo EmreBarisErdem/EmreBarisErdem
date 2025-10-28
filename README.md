@@ -15,9 +15,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 Geological Engineering graduate from **METU (2019)**, transitioning into software development.  
-- 🌱 Currently developing with **ASP.NET Core MVC**, **Web API**, and **React**.  
+- 🌱 Currently developing with **ASP.NET Core MVC**, **Web API**, **React**.  
 - 🧠 Learning **Python** and **Java** to strengthen backend and OOP knowledge.  
-- 🎯 Goal: To build a career as a **Full-Stack Developer** specializing in **HR and business systems**.  
+- 🎯 Goal: To build a career as a **Full-Stack Developer** specializing in **Business systems**.  
 - 💬 Always open to collaboration and continuous learning.
 
 ---
