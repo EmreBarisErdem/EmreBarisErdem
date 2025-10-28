@@ -1,3 +1,32 @@
+<style>
+.icon-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+.icon-card {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.icon-card:hover {
+  transform: scale(1.08);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+.icon-card img {
+  width: 40px;
+  height: 40px;
+}
+</style>
+
 <h1 align="center">👋 Hi, I'm Barış | Merhaba, Ben Barış</h1>
 
 <h3 align="right">
