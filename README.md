@@ -16,12 +16,6 @@
 - Python 🐍  
 - Java ☕
 
-**NoSQL:**  
-<div class="icon-grid">
-  <a href="https://www.mongodb.com/" target="_blank" class="icon-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
-  <a href="https://redis.io/" target="_blank" class="icon-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a>
-</div>
-
 ### 🧰 My Tech Stack
 <p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60"/></a>
