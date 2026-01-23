@@ -10,7 +10,7 @@
 ### 💡 About Me
 - I'm a **junior full-stack web developer** passionate about creating efficient and user-friendly applications.  
 - I enjoy learning new technologies and building practical projects that combine creativity and logic.  
-- Currently focused on **ASP.NET Core**, **React**, and **Optimizing Queries**.
+- Currently focused on **ASP.NET Core**, **React**, and **Optimizing T-SQL Queries**.
 
 ### 🧠 Currently Learning
 - Python 🐍  
