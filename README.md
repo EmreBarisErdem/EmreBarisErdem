@@ -37,7 +37,7 @@
 
 ### 📫 How to Reach Me
 
-  <a href="https://www.linkedin.com/in/emre-barış-erdem" target="_blank">
+  <a href="https://www.linkedin.com/in/emrebariserdem" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:erdem.emre.baris@gmail.com">
@@ -53,7 +53,7 @@
 
 ### 💡 Hakkımda
 - **Full-stack web geliştiricisi** olma yolunda ilerleyen, öğrenmeye ve üretmeye tutkulu bir yazılım geliştiriciyim.  
-- **ASP.NET Core**, **React** ve **Sorgu Optimizasyonu** üzerinde yoğunlaşıyorum.  
+- **ASP.NET Core**, **React** ve **T-SQL Sorgu Optimizasyonu** üzerinde yoğunlaşıyorum.  
 - Kod yazarken kullanıcı deneyimi ve performans odaklı çözümler üretmeyi seviyorum.
 
 ### 🧠 Şu Anda Öğrendiğim Diller
@@ -79,7 +79,7 @@
 </p>
 
 ### 📫 Bana Ulaş
-  <a href="https://www.linkedin.com/in/emre-barış-erdem" target="_blank">
+  <a href="https://www.linkedin.com/in/emrebariserdem" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:erdem.emre.baris@gmail.com">
